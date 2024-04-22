@@ -1,0 +1,77 @@
+.card {
+  border: 1px solid #ccc;
+  max-width: 96%;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 0 auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center  ;
+}
+
+.card img {
+  max-width: 100%; 
+  max-height: 200px; 
+  border-radius: 8px;
+}
+
+.card h2 {
+  font-size: 24px;
+  margin-top: 10px;
+}
+
+.card p {
+  font-size: 16px;
+  color: #666;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ffffff;
+  padding: 10px 20px;
+}
+
+.esoft {
+  font-size: 28px; 
+  font-weight: bold; 
+  color: #007bff; 
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.2); 
+}
+
+
+.homework {
+  font-size: 20px;
+  color: #000000; 
+}
+
+.mincard {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 10px;
+  width: 400px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.mincard img {
+  max-width: 100%; 
+  max-height: 100px; 
+  border-radius: 8px;
+}
+
+.mincard h2 {
+  font-size: 24px;
+  margin-top: 10px;
+}
+
+.mincard p {
+  font-size: 16px;
+  color: #666;
+}
+
+.maintext {
+  text-align: center;
+  color: #f45151; 
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
